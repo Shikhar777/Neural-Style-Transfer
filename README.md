@@ -23,4 +23,5 @@ and the ones responsible for the content (image-specific features), we can separ
 
 5. Finally, we set our gradients and optimize with the L-BFGS algorithm.
 
-![Content Image](Content.png)
+## Content Image
+   ![](Content.png)
