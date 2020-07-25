@@ -25,3 +25,12 @@ and the ones responsible for the content (image-specific features), we can separ
 
 ## Content Image
    ![](Content.png)
+   
+## Style Image
+   ![](Style.png)
+   
+## Output Image
+   ![](Output.png)
+   
+## All three images combined
+   ![](Combined.png)
